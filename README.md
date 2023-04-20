@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=BC97D6&size=27&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Competitve+programmer;"></a>
   </a>
 <br>	
-<img align="center" width=180px src="https://tenor.com/view/greetings-hey-hand-waves-hand-wave-greet-gif-16572460983832566995.gif">
+<img align="center" width=180px src="https://github.com/Eileanora/Eileanora/blob/main/icons/greetings-hey.gif">
 	
 </h1>
 
 <!-- About -->
-## <picture> <img width="90px" src="https://tenor.com/view/hi-good-afternoon-good-care-rabbit-hand-waves-gif-14148706483768650372.gif"> </picture>  About me </p>
+## <picture> <img width="90px" src="https://github.com/Eileanora/Eileanora/blob/main/icons/hi-good-afternoon.gif"> </picture>  About me </p>
 
 
-<img align="right" src="https://tenor.com/view/hi-there-hello-peep-hey-gif-15994118.gif" width = 200 px/>
+<img align="right" src="https://github.com/Eileanora/Eileanora/blob/main/icons/hi-there.gif" width = 200 px/>
 
 <br><br>
 
@@ -54,7 +54,7 @@
 <img height="70" src="https://img.icons8.com/color/96/null/visual-studio-code-2019.png"/>
 <img height="70" src="https://img.icons8.com/fluency/96/null/visual-studio.png"/>
 <img height="70" src="https://img.icons8.com/ios-filled/100/null/console.png"/>
-<img height="70" src="https://github.com/Eileanora/Eileanora/blob/main/Assets/icons/JetBrains_Rider_Icon.svg.png"/>
+<img height="70" src="https://github.com/Eileanora/Eileanora/blob/main/icons/JetBrains_Rider_Icon.svg.png"/>
 </br>
 
 &nbsp;
