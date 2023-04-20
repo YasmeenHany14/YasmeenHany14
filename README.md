@@ -19,7 +19,7 @@
 <br><br>
 
 <ul>
-<li>I am a <strong>Computer engineering</strong> Student at suez canal university/li>
+<li>I am a <strong>Computer engineering</strong> Student at suez canal university </li>
 <li> I'm a competitve programmer on
 <a href = "https://codeforces.com/profile/Eileanora" target ="blank",>Codeforces</a>,  
 <a href = "https://atcoder.jp/users/Eileanora" target ="blank",>Atcoder</a>,  
