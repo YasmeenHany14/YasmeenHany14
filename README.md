@@ -54,7 +54,7 @@
 <img height="70" src="https://img.icons8.com/color/96/null/visual-studio-code-2019.png"/>
 <img height="70" src="https://img.icons8.com/fluency/96/null/visual-studio.png"/>
 <img height="70" src="https://img.icons8.com/ios-filled/100/null/console.png"/>
-<!img height="100" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.png/>
+<img height="70" src="https://github.com/Eileanora/Eileanora/blob/main/Assets/icons/JetBrains_Rider_Icon.svg.png"/>
 </br>
 
 &nbsp;
