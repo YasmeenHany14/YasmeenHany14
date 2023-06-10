@@ -31,7 +31,7 @@
 
 <li> Currently learning Datastructuers and OOP. </li>
 
-<li> You can look at my <https://drive.google.com/file/d/1VEiTQBG3vr6erJK2Pk3653Yx-Q8X34u-/view?usp=share_link" target ="blank",> <strong>Resume</strong></a> here.</li>
+<li> You can look at my <a href = "https://drive.google.com/file/d/1VEiTQBG3vr6erJK2Pk3653Yx-Q8X34u-/view?usp=share_link" target ="blank",> <strong>Resume</strong></a> here.</li>
 
 </ul>
 
