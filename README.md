@@ -19,7 +19,7 @@
 <br><br>
 
 <ul>
-<li>I am a <strong>Computer engineering</strong> Student in my last year at suez canal university </li>
+<li>I am a <strong>Computer engineering</strong> student in my last year at suez canal university.</li>
 <li> I'm a competitve programmer on
 <a href = "https://codeforces.com/profile/Eileanora" target ="blank",>Codeforces</a>,  
 <a href = "https://atcoder.jp/users/Eileanora" target ="blank",>Atcoder</a>,  
@@ -27,9 +27,9 @@
 <a href = "https://leetcode.com/Eileanora/" target ="blank",>Leetcode</a> . </li>
 
 
-<li> I enjoy <strong>Problem Solving</strong>/li>  
+<li> I enjoy <strong>Problem Solving</strong>.</li>  
 
-<li> Currently interested in web development. </li>
+<li> Currently interested in web development specially backend engineering.</li>
 
 <li> You can look at my <a href = "https://drive.google.com/file/d/1VEiTQBG3vr6erJK2Pk3653Yx-Q8X34u-/view?usp=share_link" target ="blank",> <strong>Resume</strong></a> here.</li>
 
