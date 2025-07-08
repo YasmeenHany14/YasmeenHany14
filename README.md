@@ -51,26 +51,3 @@
   </div>
   
 <!--- Languages & Tools End --->
-
-
-<!-- github stats and trophies -->
-<!--- Github Stats Starts --->
-
-
-<hr>
-<h2 align="center">GitHub Profile Stats</h2></p>
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Eileanora&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Eileanora&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
-  
-</p>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eileanora&theme=radical)
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eileanora&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eileanora&theme=radical)
