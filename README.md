@@ -3,11 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   	<img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=BC97D6&size=27&center=true&vCenter=true&width=500&height=100&lines=Hello!+I'am+Yasmeen+Hany;"></a>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  	<img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=BC97D6&size=27&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Developer+.Net+and+Angular;"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  	<img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=BC97D6&size=27&center=true&vCenter=true&width=500&height=100&lines=OutSystems+Developer;"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  	<img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=BC97D6&size=27&center=true&vCenter=true&width=500&height=100&lines=ALX+SE+Alumni;"></a>
+  	<img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=BC97D6&size=27&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer+.Net+and+Angular;"></a>
   </a>
 <br>	
 <img align="center" width=180px src="https://github.com/Eileanora/Eileanora/blob/main/icons/greetings-hey.gif">
